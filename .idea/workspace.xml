@@ -254,7 +254,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpDebugGeneral" listening_started="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="894" />
@@ -336,16 +336,15 @@
       <workItem from="1544095941053" duration="8310000" />
       <workItem from="1544167729367" duration="9999000" />
       <workItem from="1544179366457" duration="4229000" />
-      <workItem from="1544527302578" duration="8133000" />
+      <workItem from="1544527302578" duration="9405000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79557000" />
+    <option name="totallyTimeSpent" value="80829000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16109422" />
