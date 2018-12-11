@@ -28,15 +28,15 @@ background-color: #700000;
 }
 .nav-link
 {
-  color: white;
+  color: #533f03;
 }
 .nav-link:hover
 {
-  color: orange;
+  color: #9fcdff;
 }
 img{
 width: 250px;
-height 200px
+height 70px;
 }
 .carousel-inner img {
   width: 100%;
@@ -86,7 +86,7 @@ background-color: #14cde7;
 }
 .navbar-ok
 {
-  background-color: #a58c6d;
+  background-color: #c69500;
 }
 .navbar-green
 {
